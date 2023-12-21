@@ -1,13 +1,10 @@
 ==================================
-Documento di esempio - Docs Italia
+Modello Musei civici
 ==================================
 
-.. raw:: latex 
+.. highlights::
 
-   \makeatletter\@openrightfalse
-	\chapter{Introduzione}
-
-Descrizione scopo del documento.
+Documentazione tecnica e di progetto per il modello Musei civici di Designers Italia.
 
 .. toctree::
    :maxdepth: 3
