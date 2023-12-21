@@ -1,7 +1,8 @@
 --- 
 document: 
-  name: "Documento di prova"
-  short_name: doc-proca
-  description: "Descrizione"
+  name: "Modello Musei civici"
+  description: "Documentazione tecnica e di progetto per il modello Musei civici di Designers Italia"
   tags:
-    - Docs Italia
+    - siti web
+    - design
+    - musei
