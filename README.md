@@ -1,6 +1,6 @@
-# Documento di esempio - Docs Italia
+# Modello Musei civici
 
-Descrizione scopo del documento.
+Documentazione tecnica e di progetto per il modello Musei civici di Designers Italia.
 
 # Dipendenze
 
