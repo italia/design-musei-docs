@@ -12,6 +12,8 @@ L’architettura di un sito è composta da:
 
 Tutti i dettagli sull’architettura del sito di un museo sono contenuti nel `Documento di architettura dell’informazione (ODS XXKB) <https://designers.italia.it/files/resources/modelli/musei-civici/Architettura-ModelloMusei-DesignersItalia.ods>`_.
 
+Tutte le risorse presentano le indicazioni di voci di navigazione, etichette, titoli di pagina e di sezione anche in lingua inglese, per facilitare la realizzazione, qualora necessario, di un sito multilingua.
+
 -------------------
 
 
