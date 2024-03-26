@@ -1,4 +1,5 @@
 Sistemi di navigazione 
+========================
 
 Il **menu di navigazione principale** del modello prevede i collegamenti alle pagine lista di primo livello di 4 delle sezioni principali del sito: Organizza la visita, Esplora il museo, Mostre ed eventi e Educazione e ricerca. Al livello delle voci di menu è riportata anche la call to action “Acquista biglietti” che permette all’utente di iniziare un eventuale flusso online di acquisto biglietti. 
 
