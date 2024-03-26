@@ -58,4 +58,17 @@ La pagina è composta da:
 
 È disponibile il layout hi-fi della pagina Orari, biglietti e visite guidate. Vai al file del modello Musei sulla Community Figma, apri il file nelle tue bozze (Drafts) e scorri l’indice laterale fino a trovare il foglio «Organizza la visita».
 
+Pagina foglia Dove siamo 
+--------------------------------
+
+La pagina foglia di secondo livello “Dove siamo” ha lo scopo di presentare agli utenti la posizione, l’indirizzo e le informazioni su come raggiungere il museo con i mezzi pubblici e privati. Nel caso in cui il museo sia composto da più luoghi, comparirà l’elenco di tutti i luoghi con annessi gli indirizzi e le informazioni su come raggiungerli. 
+
+La pagina è composta da: 
+
+- Una sezione **Hero** con titolo della pagina e descrizione; 
+- La **mappa interattiva**, che mostra la posizione del museo e di eventuali altre sedi e luoghi del museo; 
+- Il **dettaglio delle informazioni**, che si presenterà come un elenco nel caso in cui il museo sia composto da più luoghi. Per ogni luogo, sarà presente: il **nome** del museo o del luogo, l'**indirizzo**, le **indicazioni su come raggiungerlo con i mezzi propri o pubblici** e le informazioni circa l’**accessibilità degli accessi**, con un link alla pagina foglia Accessibilità per approfondire la tematica;
+- La **funzionalità di valutazione della chiarezza informativa delle pagine**, che permette agli utenti di lasciare feedback utili all’ente per migliorare i contenuti del sito.
+
+  
 
