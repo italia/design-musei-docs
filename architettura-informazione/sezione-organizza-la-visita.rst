@@ -80,7 +80,7 @@ La pagina lista di secondo livello “Percorsi di visita” ha lo scopo di prese
 La pagina è composta da: 
 
 - Una sezione **Hero** con titolo della pagina e descrizione; 
-- I filtri di ricerca: il filtro Durata, che consente di selezionare i percorsi in base alla loro durata, e, nel caso in cui un museo sia composto da più luoghi, il filtro Luogo che permette di selezionare i percorsi correlati a luoghi specifici del museo;
+- I **filtri di ricerca**: il filtro Durata, che consente di selezionare i percorsi in base alla loro durata, e, nel caso in cui un museo sia composto da più luoghi, il filtro Luogo che permette di selezionare i percorsi correlati a luoghi specifici del museo;
 - L’**elenco di tutti i Percorsi di visita**, presentati tramite card che collegano alle relative pagine foglia. Possono comparire fino ad un massimo di 12 card e ognuna comprende un’immagine significativa, il nome del percorso, una breve descrizione e l’indicazione della durata. Nel caso in cui dovessero essere richiamati dalla ricerca più di 12 percorsi, comparirà al termine dell'elenco un elemento di paginazione; 
 - La **funzionalità di valutazione della chiarezza informativa della pagina**, che permette agli utenti di lasciare feedback utile all’ente per migliorare i contenuti del sito. 
 
