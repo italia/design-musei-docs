@@ -6,7 +6,6 @@ La sezione risponde al bisogno degli utenti di recuperare le informazioni necess
 Al primo livello, la sezione presenta una pagina di lista di primo livello Organizza la visita. 
 
  
-
 Al secondo livello, la sezione si dirama in: 
 
 - Orari, biglietti e visite guidate (pagina foglia);
@@ -22,6 +21,8 @@ Direttamente sotto la pagina lista di secondo livello Percorsi, sono presenti le
 Direttamente sotto la pagina lista di secondo livello Servizi, sono presenti le pagine foglia dei singoli servizi, create seguendo le indicazioni della tipologia di contenuto “Servizio”. 
 
 Per approfondire la struttura della sezione Organizza la visita, vai al `Grafico dell’alberatura (PDF 3.6MB) <https://designers.italia.it/files/resources/modelli/musei-civici/Alberatura-ModelloMusei-DesignersItalia.pdf>`_. 
+
+Per tutte le pagine di questa sezione del sito, a meno che non specificato diversamente, è disponibile il relativo layout hi-fi su Figma che presenta la veste grafica della pagina e un esempio di contenuto. Vai al file del modello Musei sulla Community Figma, apri il file nelle tue bozze (Drafts) e scorri l’indice laterale fino a trovare il foglio «Organizza la visita».
 
 
 Pagina lista di primo livello Organizza la visita 
@@ -42,7 +43,6 @@ La pagina è composta da:
 - Una sezione **Vuoi supportare il museo**, che rimanda ad una pagina con la spiegazione dei modi con cui si può supportare il museo (ad esempio tramite donazioni o membership); 
 - La **funzionalità di valutazione della chiarezza informativa delle pagine**, che permette agli utenti di lasciare feedback utili all’ente per migliorare i contenuti del sito.
 
-È disponibile il layout hi-fi della pagina Organizza la visita. Vai al file del modello Musei sulla Community Figma, apri il file nelle tue bozze (Drafts) e scorri l’indice laterale fino a trovare il foglio «Organizza la visita».
 
 Pagina foglia Orari, biglietti e visite guidate
 --------------------------------------------------
@@ -51,12 +51,11 @@ La pagina foglia “Orari, biglietti e visite guidate” ha lo scopo di esporre 
 
 La pagina è composta da: 
 
-- Una sezione **Hero** con titolo della pagina e descrizione; 
+- Una sezione **Hero** con il titolo della pagina; 
 - Un **indice laterale** sticky che riporta le voci delle sezioni di pagina e ognuna di esse funziona da àncora in pagina; 
 - Il **corpo di pagina**, che può essere organizzato per ospitare i seguenti contenuti: **Orari** (incluse aperture e chiusure straordinarie), **Biglietti individuali**, **Riduzioni e convenzioni**, **Biglietti per gruppi e famiglie**, **Biglietti per le scuole**, **Visite guidate e audioguide**, i **Contatti** per chiedere informazioni o prenotare le visite. Se l'ente dispone di un servizio online di acquisto biglietti o prenotazione visite, è utile aggiungere una call to action "Acquista biglietti" per rimandare l'utente al flusso di acquisto o prenotazione online;
 - La **funzionalità di valutazione della chiarezza informativa delle pagine**, che permette agli utenti di lasciare feedback utili all’ente per migliorare i contenuti del sito.
 
-È disponibile il layout hi-fi della pagina Orari, biglietti e visite guidate. Vai al file del modello Musei sulla Community Figma, apri il file nelle tue bozze (Drafts) e scorri l’indice laterale fino a trovare il foglio «Organizza la visita».
 
 Pagina foglia Dove siamo 
 --------------------------------
@@ -65,12 +64,11 @@ La pagina foglia di secondo livello “Dove siamo” ha lo scopo di presentare a
 
 La pagina è composta da: 
 
-- Una sezione **Hero** con titolo della pagina e descrizione; 
+- Una sezione **Hero** con titolo della pagina; 
 - La **mappa interattiva**, che mostra la posizione del museo e di eventuali altre sedi e luoghi del museo; 
 - Il **dettaglio delle informazioni**, che si presenterà come un elenco nel caso in cui il museo sia composto da più luoghi. Per ogni luogo, sarà presente: il **nome** del museo o del luogo, l'**indirizzo**, le **indicazioni su come raggiungerlo con i mezzi propri o pubblici** e le informazioni circa l’**accessibilità degli accessi**, con un link alla pagina foglia Accessibilità per approfondire la tematica;
 - La **funzionalità di valutazione della chiarezza informativa delle pagine**, che permette agli utenti di lasciare feedback utili all’ente per migliorare i contenuti del sito.
 
-È disponibile il layout hi-fi della pagina Dove siamo. Vai al file del modello Musei sulla Community Figma, apri il file nelle tue bozze (Drafts) e scorri l’indice laterale fino a trovare il foglio «Organizza la visita».
 
 Pagina lista di secondo livello Percorsi di visita 
 --------------------------------------------------------
@@ -79,9 +77,57 @@ La pagina lista di secondo livello “Percorsi di visita” ha lo scopo di prese
 
 La pagina è composta da: 
 
-- Una sezione **Hero** con titolo della pagina e descrizione; 
+- Una sezione **Hero** con il titolo della pagina; 
 - I **filtri di ricerca**: il filtro Durata, che consente di selezionare i percorsi in base alla loro durata, e, nel caso in cui un museo sia composto da più luoghi, il filtro Luogo che permette di selezionare i percorsi correlati a luoghi specifici del museo;
 - L’**elenco di tutti i Percorsi di visita**, presentati tramite card che collegano alle relative pagine foglia. Possono comparire fino ad un massimo di 12 card e ognuna comprende un’immagine significativa, il nome del percorso, una breve descrizione e l’indicazione della durata. Nel caso in cui dovessero essere richiamati dalla ricerca più di 12 percorsi, comparirà al termine dell'elenco un elemento di paginazione; 
 - La **funzionalità di valutazione della chiarezza informativa della pagina**, che permette agli utenti di lasciare feedback utile all’ente per migliorare i contenuti del sito. 
 
-È disponibile il layout hi-fi della pagina Percorsi di vista. Vai al file del modello Musei sulla Community Figma, apri il file nelle tue bozze (Drafts) e scorri l’indice laterale fino a trovare il foglio «Organizza la visita».
+
+Pagina foglia Percorso di visita
+------------------------------------------
+
+La pagina foglia “Percorso di visita” si basa sulla tipologia di contenuto “Percorso” descritta nel Documento di architettura dell’informazione (XXX KB), in cui vengono indicati gli attributi informativi necessari e l’ordine di presentazione degli stessi. La tipologia “Percorso” è stata progettata per mettere in risalto le informazioni più ricercate dagli utenti dei musei riguardo ad un percorso, come la durata complessiva, le tappe da cui è composto il percorso e una galleria di foto e video rappresentative. 
+
+Come ogni pagina del sito, le pagine foglia servizio presentano la funzionalità di valutazione della chiarezza informativa prima del footer, che permette agli utenti di lasciare feedback utile all’ente per migliorare i contenuti del sito. 
+
+
+Pagina lista di secondo livello Servizi 
+------------------------------------------
+
+La pagina lista di secondo livello “Servizi” ha lo scopo di presentare agli utenti una panoramica dei servizi offerti dal museo, sia quelli riferiti nello specifico alla visita come anche altri più legati ad un utilizzo alternativo del museo (ad esempio l’affitto di sale del museo per eventi privati). 
+
+La pagina è composta da: 
+
+- Una **Hero** con il titolo della pagina; 
+- Nel caso in cui un museo sia composto da più luoghi, un **filtro Luogo** che permette di selezionare un'opzione da un menu a tendina per visualizzare doltanto i servizi di uno specifico luogo;  
+- L’**elenco di tutti i Servizi**, sotto forma di card. Ogni card presenta il nome del servizio, una breve descrizione e, nel caso in cui il servizio ha una pagina foglia associata, il link con la call to action “Scopri il servizio”;
+- La **funzionalità di valutazione della chiarezza informativa della pagina**, che permette agli utenti di lasciare feedback utile all’ente per migliorare i contenuti del sito.
+
+
+Pagina foglia Servizio
+-------------------------
+
+La pagina foglia “Servizio” si basa sulla tipologia di contenuto “Servizio” descritta nel Documento di architettura dell’informazione (XXX KB) in cui vengono indicati gli attributi informativi necessari e l’ordine di presentazione degli stessi per creare una pagina foglia di un servizio di un museo. La tipologia “Servizio” è stata progettata per mettere in risalto le informazioni più ricercate dagli utenti dei musei riguardo ad un servizio, come la descrizione, gli orari, i costi e una galleria di foto e video rappresentative. 
+
+Come ogni pagina del sito, le pagine foglia servizio presentano la funzionalità di valutazione della chiarezza informativa prima del footer, che permette agli utenti di lasciare feedback utile all’ente per migliorare i contenuti del sito. 
+
+ 
+
+Pagine foglia Accessibilità e Regole per i visitatori
+--------------------------------------------------------
+
+Le pagine foglia “Accessibilità” e “Regole per i visitatori” si basano, a livello di layout, sul template "pagina di testo generico", disponibile su Figma.  
+
+La pagina foglia **Accessibilità** ha lo scopo di raccogliere le informazioni utili ai visitatori con qualche forma di disabilità per rendere la loro esperienza di visita il più confortevole e ricca possibile. 
+
+All’interno di questa pagina possono essere indicati, ad esempio:  
+
+Gratuità o riduzioni sul prezzo dei biglietti per persone con disabilità o i loro accompagnatori 
+
+Dove sono ubicati i parcheggi, le entrate e i servizi igienici accessibili 
+
+Le modalità di richiesta di sedie a rotelle o altri dispositivi utili a visitare il museo in maniera accessibile come, ad esempio, audioguide accessibili o risorse online da scaricare nel proprio telefono o date in dotazione dallo stesso museo 
+
+Orari di visita in cui il museo risulta essere meno affollato e sale in cui c’è minor afflusso di visitatori per poter effettuare un’eventuale sosta durante il percorso di visita. 
+
+Come ogni pagina del sito, le pagine “Accessibilità” e “Regole per i visitatori” presentano la funzionalità di valutazione della chiarezza informativa prima del footer, che permette agli utenti di lasciare feedback utile all’ente per migliorare i contenuti del sito. 
