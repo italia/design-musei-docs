@@ -70,5 +70,18 @@ La pagina è composta da:
 - Il **dettaglio delle informazioni**, che si presenterà come un elenco nel caso in cui il museo sia composto da più luoghi. Per ogni luogo, sarà presente: il **nome** del museo o del luogo, l'**indirizzo**, le **indicazioni su come raggiungerlo con i mezzi propri o pubblici** e le informazioni circa l’**accessibilità degli accessi**, con un link alla pagina foglia Accessibilità per approfondire la tematica;
 - La **funzionalità di valutazione della chiarezza informativa delle pagine**, che permette agli utenti di lasciare feedback utili all’ente per migliorare i contenuti del sito.
 
-  
+È disponibile il layout hi-fi della pagina Dove siamo. Vai al file del modello Musei sulla Community Figma, apri il file nelle tue bozze (Drafts) e scorri l’indice laterale fino a trovare il foglio «Organizza la visita».
 
+Pagina lista di secondo livello Percorsi di visita 
+--------------------------------------------------------
+
+La pagina lista di secondo livello “Percorsi di visita” ha lo scopo di presentare agli utenti una panoramica dei percorsi di visita che possono svolgere nel museo. 
+
+La pagina è composta da: 
+
+- Una sezione **Hero** con titolo della pagina e descrizione; 
+- I filtri di ricerca: il filtro Durata, che consente di selezionare i percorsi in base alla loro durata, e, nel caso in cui un museo sia composto da più luoghi, il filtro Luogo che permette di selezionare i percorsi correlati a luoghi specifici del museo;
+- L’**elenco di tutti i Percorsi di visita**, presentati tramite card che collegano alle relative pagine foglia. Possono comparire fino ad un massimo di 12 card e ognuna comprende un’immagine significativa, il nome del percorso, una breve descrizione e l’indicazione della durata. Nel caso in cui dovessero essere richiamati dalla ricerca più di 12 percorsi, comparirà al termine dell'elenco un elemento di paginazione; 
+- La **funzionalità di valutazione della chiarezza informativa della pagina**, che permette agli utenti di lasciare feedback utile all’ente per migliorare i contenuti del sito. 
+
+È disponibile il layout hi-fi della pagina Percorsi di vista. Vai al file del modello Musei sulla Community Figma, apri il file nelle tue bozze (Drafts) e scorri l’indice laterale fino a trovare il foglio «Organizza la visita».
