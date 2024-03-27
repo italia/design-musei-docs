@@ -118,15 +118,11 @@ Pagine foglia Accessibilità e Regole per i visitatori
 
 Le pagine foglia “Accessibilità” e “Regole per i visitatori” si basano, a livello di layout, sul template "pagina di testo generico", disponibile su Figma.  
 
-La pagina foglia **Accessibilità** ha lo scopo di raccogliere le informazioni utili ai visitatori con qualche forma di disabilità per rendere la loro esperienza di visita il più confortevole e ricca possibile. 
+La pagina foglia **Accessibilità** ha lo scopo di raccogliere le informazioni utili ai visitatori con qualche forma di disabilità per rendere la loro esperienza di visita il più confortevole e ricca possibile, come: 
 
-All’interno di questa pagina possono essere indicati, ad esempio:  
-
-Gratuità o riduzioni sul prezzo dei biglietti per persone con disabilità o i loro accompagnatori 
-
-Dove sono ubicati i parcheggi, le entrate e i servizi igienici accessibili 
-
-Le modalità di richiesta di sedie a rotelle o altri dispositivi utili a visitare il museo in maniera accessibile come, ad esempio, audioguide accessibili o risorse online da scaricare nel proprio telefono o date in dotazione dallo stesso museo 
+- le indicazioni di rampe di accesso al museo ed eventuali appositi parcheggi;
+- la posizione, nel museo, di servizi igienici accessibili;
+- le modalità di richiesta di sedie a rotelle o altri dispositivi utili a visitare il museo in maniera accessibile come, ad esempio, audioguide accessibili o risorse online da scaricare nel proprio telefono o date in dotazione dallo stesso museo 
 
 Orari di visita in cui il museo risulta essere meno affollato e sale in cui c’è minor afflusso di visitatori per poter effettuare un’eventuale sosta durante il percorso di visita. 
 
