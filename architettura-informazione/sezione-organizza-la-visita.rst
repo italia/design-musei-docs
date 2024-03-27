@@ -118,12 +118,21 @@ Pagine foglia Accessibilità e Regole per i visitatori
 
 Le pagine foglia “Accessibilità” e “Regole per i visitatori” si basano, a livello di layout, sul template "pagina di testo generico", disponibile su Figma.  
 
-La pagina foglia **Accessibilità** ha lo scopo di raccogliere le informazioni utili ai visitatori con qualche forma di disabilità per rendere la loro esperienza di visita il più confortevole e ricca possibile, come: 
+La pagina foglia **Accessibilità** ha lo scopo di raccogliere le informazioni utili ai visitatori con qualche forma di disabilità per rendere la loro esperienza di visita il più confortevole e ricca possibile, come ad esempio: 
 
 - le indicazioni di rampe di accesso al museo ed eventuali appositi parcheggi;
 - la posizione, nel museo, di servizi igienici accessibili;
-- le modalità di richiesta di sedie a rotelle o altri dispositivi utili a visitare il museo in maniera accessibile come, ad esempio, audioguide accessibili o risorse online da scaricare nel proprio telefono o date in dotazione dallo stesso museo 
+- le modalità di richiesta di dispositivi utili a visitare il museo in maniera accessibile come, ad esempio, sedie a rotelle, audioguide accessibili o risorse online da scaricare nel proprio telefono o date in dotazione dallo stesso museo; 
+- orari di visita in cui il museo risulta essere meno affollato e sale in cui c’è minor afflusso di visitatori per poter effettuare un’eventuale sosta durante il percorso di visita.
 
-Orari di visita in cui il museo risulta essere meno affollato e sale in cui c’è minor afflusso di visitatori per poter effettuare un’eventuale sosta durante il percorso di visita. 
+La pagina **Regole per i visitatori** ha lo scopo di raccogliere le indicazioni su come comportarsi negli spazi del museo e delle installazioni, come ad esempio:
+
+- bere e mangiare negli spazi espositivi;
+- interagire con le opere d'arte o i reperti;
+- fare fotografie;
+- introdurre alcolici;
+- introdurre coltelli o oggetti appuntiti;
+- introdurre animali
+- divieti di fumo.
 
 Come ogni pagina del sito, le pagine “Accessibilità” e “Regole per i visitatori” presentano la funzionalità di valutazione della chiarezza informativa prima del footer, che permette agli utenti di lasciare feedback utile all’ente per migliorare i contenuti del sito. 
