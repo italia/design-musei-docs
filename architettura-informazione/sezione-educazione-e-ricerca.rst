@@ -18,16 +18,36 @@ Per tutte le pagine di questa sezione del sito, è disponibile il relativo layou
 Pagina lista di primo livello Educazione e ricerca 
 -----------------------------------------------------
 
-La pagina di lista di primo livello “Educazione e ricerca” permette agli utenti di scoprire quali attività educative possono svolgere al museo, in base alle diverse tipologie di target, e di avere una panoramica sulle attività di ricerca e pubblicazioni che sono correlate al museo. 
+La pagina di lista di primo livello “Educazione e ricerca” permette agli utenti di scoprire quali attività educative si possono svolgere al museo e quali sono le attività di ricerca in cui il museo è coinvolto, incluse eventuali pubblicazioni. 
 
 La pagina è composta da: 
 
 - Una **Hero** con titolo e breve descrizione che introduce alla pagina e ai suoi contenuti; 
+- Una **sezione di smistamento ai contenuti**, organizzata su due colonne, che presenta due tipologie di card: le **card che portano alle lista delle attività educative**, divise per tipi di target (ad esempio "Bambini", "Scuole", "Famiglie", al cui click si atterrerà sulla pagina lista di secondo livello "Attività educative" già filtrata per il target specifico) e **una card che porta alla lista delle attività di ricerca e pubblicazioni**.
+- Una sezione **Le ultime notizie**, in cui presentare le ultime 3 notizie in ordine cronologico inverso (dalla più alla meno recente) riguardanti le attività educative o le attività di ricerca e pubblicazioni. È presente la call to action “Tutte le notizie su Educazione e ricerca” che permette all’utente di atterrare nella pagina lista “Notizie” prefiltrata per questa tematica.  
+- Una sezione **Vuoi supportare il museo**, che rimanda ad una pagina con la spiegazione dei modi con cui si può supportare il museo (ad esempio, tramite donazioni o membership); 
+- La **funzionalità di valutazione della chiarezza informativa delle pagine**, che permette agli utenti di lasciare feedback utili all’ente per migliorare i contenuti del sito.
 
-- Una sezione su due colonne che presenta due tipologie di card: divisa in tante parti quanti sono i target a cui si rivolge il museo in termini di attività educative e una parte dedicata alle attività di ricerca e pubblicazioni. Nella pagina è riportato un esempio e sono presenti i banner Per le scuole, Per i bambini e ragazzi, Per le famiglie. Al click su ciascun banner dedicato al singolo target, l’utente atterra nella pagina lista di secondo livello Attività educative prefiltrata per questa tipologia di utenti. Invece, al click sul banner Attività di ricerca e pubblicazioni, l’utente atterra nell’omonima pagina lista di secondo livello.  
+Pagine lista di secondo livello Attività educative e Attività di ricerca e pubblicazioni
+--------------------------------------------------------------------------------------------
+Queste pagina lista raccolgono i collegamenti a tutte le pagine foglia afferenti a quella specifica categoria di contenuto. 
 
-Una sezione Le ultime notizie, in cui il museo può mettere in rilievo fino a 3 notizie scelte editorialmente riguardanti le attività educative o le attività di ricerca e pubblicazioni. È presente la call to action “Tutte le notizie su Educazione e ricerca” che permette all’utente di atterrare nella pagina lista “Notizie” prefiltrata per questa tematica.  
+Le pagine sono composte da:
 
-Una sezione Vuoi supportare il museo, che rimanda ad una pagina con la spiegazione dei modi con cui si può supportare il museo (ad esempio tramite donazioni o membership); 
+- Una **Hero** con titolo della pagina; 
+- La barra dei **filtri** che permettono all’utente di filtrare i contenuti per: Target, Tipologia, Durata e Luogo per le attività educative; Tipologia (Attività di ricerca o Pubblicazione) per le Attività di ricerca e pubblicazioni; 
+- L’**elenco dei contenuti**, sotto forma di card, che presentano: per le **attività educative**, un'immagine di riferimento, il nome dell'attività, l’indicazione di dove si svolge, il target di riferimento, la durata e un badge con la tipologia di attività (sulla base della Tassonomia Tipi di Attività educativa); per le **Attività di ricerca e pubblicazioni**, il titolo dell’attività di ricerca o pubblicazione, nome degli autori e badge con il riferimento alla tipologia (Attività di ricerca oppure Pubblicazione). Sono esposte in pagina fino ad un massimo di 12 card ed è presente un elemento paginazione che permette di visualizzarne ulteriori. 
+- La funzionalità di valutazione della chiarezza informativa della pagina, che permette agli utenti di lasciare feedback utile all’ente per migliorare i contenuti del sito.
 
-La funzionalità di valutazione della chiarezza informativa delle pagine, che permette agli utenti di lasciare feedback utili all’ente per migliorare i contenuti del sito; 
+Al click su una card della lista, l’utente atterra nella pagina foglia dedicata alla singola attività educativa, alla singola attività di ricerca o alla singola pubblicazione.
+
+Pagine foglia Attività educativa e Attività di ricerca o pubblicazione
+--------------------------------------------------------------------------
+
+Le pagine foglia “Attività educativa” e le pagine foglia “Attività di ricerca o pubblicazione” si basano sulle tipologie di contenuto “Attività educativa” e “Attività di ricerca o pubblicazione” descritte nel Documento di architettura dell’informazione (XXX KB) in cui vengono indicati gli attributi informativi necessari e l’ordine di presentazione degli stessi. 
+
+La tipologia “Attività educativa” è stata progettata per mettere in risalto le informazioni più ricercate dagli utenti dei musei riguardo a queste attività, come il nome, informazioni logistiche come, ad esempio, gli orari, il costo e la modalità di prenotazione, una galleria di foto o video rappresentativi ed eventuali materiali scaricabili in preparazione all’attività. 
+
+La tipologia “Attività di ricerca o pubblicazione” è stata progettata per mettere in risalto le informazioni più ricercate dagli utenti dei musei riguardo a queste attività, come il titolo, gli autori ed eventuali link per approfondimenti. 
+
+Come ogni pagina del sito, le pagine foglia “Attività educativa” e la pagina foglia “Attività di ricerca o pubblicazione” presentano la funzionalità di valutazione della chiarezza informativa prima del footer, che permette agli utenti di lasciare feedback utile all’ente per migliorare i contenuti del sito. 
