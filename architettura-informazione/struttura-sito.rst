@@ -1,3 +1,6 @@
+Struttura del sito
+=====================
+
 Per visualizzare la struttura del modello di sito di un museo, vai al `Grafico dell’alberatura (PDF 3.6MB) <https://designers.italia.it/files/resources/modelli/musei-civici/Alberatura-ModelloMusei-DesignersItalia.pdf>`_. 
 
  
