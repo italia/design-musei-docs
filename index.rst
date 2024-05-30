@@ -15,5 +15,5 @@ Modello Musei civici
    architettura-informazione.rst
    interfaccia.rst
    ricerca-e-progettazione.rst
-   norme-e-requisiti-legali.rst
    allegati-tecnici.rst
+   adesione-modello.rst
