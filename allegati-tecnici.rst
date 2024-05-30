@@ -5,7 +5,7 @@ Allegati tecnici
 
 - `Grafico dell’alberatura (PDF 4.3MB) <https://designers.italia.it/files/resources/modelli/musei-civici/Alberatura-ModelloMusei-DesignersItalia.pdf>`_
 - `Documento di architettura dell'informazione (Verione ODS 165KB) <https://designers.italia.it/files/resources/modelli/musei-civici/Architettura-ModelloMusei-DesignersItalia.ods>`_
-- `Documento di architettura dell'informazione (Versione XLSX 216KB) <https://designers.italia.it/files/resources/modelli/musei-civici/Architettura-ModelloMusei-DesignersItalia.xlxs>`_
+- `Documento di architettura dell'informazione (Versione XLSX 216KB) <https://designers.italia.it/files/resources/modelli/musei-civici/Architettura-ModelloMusei-DesignersItalia.xlsx>`_
 
 
 **Interfaccia**
