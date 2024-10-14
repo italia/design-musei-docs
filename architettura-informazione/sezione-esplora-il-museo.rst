@@ -10,8 +10,8 @@ Al secondo livello, la sezione si dirama in:
 - Collezioni (pagina di lista), al di sotto della quale saranno presenti le relative pagine delle singole collezioni;
 - Oggetti* (pagina lista), al di sotto della quale saranno presenti le relative pagine foglia degli oggetti che fanno parte del patrimonio del museo;
 - Personaggi* (pagina lista), al di sotto della quale saranno presenti le relative pagine foglia dei personaggi (come artisti, scienziati etc) a cui il museo vuole dare risalto; 
-- Storia del museo (pagina foglia) 
-- Tour virtuali (pagina lista) 
+- Storia del museo (pagina foglia);
+- Tour virtuali (pagina lista);
 - Notizie (pagina lista), al di sotto della quale saranno presenti le relative pagine foglia delle singole notizie; 
 - eventuali pagine Luogo (pagine foglia), nel caso in cui il museo è composto da più luoghi.
 
@@ -70,11 +70,13 @@ Come ogni pagina del sito, queste pagine presentano la funzionalità di valutazi
 Storia del museo
 ------------------
 
-La pagina foglia “Storia del museo” ha lo scopo di raccontare all’utente dettagli sul museo, dalla sua fondazione fino al giorno d’oggi. Può essere presente una galleria di immagini e video particolarmente significative. 
+La pagina foglia “Storia del museo” ha lo scopo di raccontare all’utente dettagli sul museo, dalla sua fondazione fino al giorno d’oggi. Può essere presente una galleria di immagini e video particolarmente significative.
+
+Il nome della pagina può essere adattato in base all'esigenze dell'ente (ad esempio, "Storia dei musei", "Storia della rete museale", "Storia del polo museale", "Storia del palazzo").
 
 La pagina presenta:
 
-- Una **Hero con il titolo di pagina** "La storia del museo";
+- Una **Hero con il titolo di pagina**;
 - Un primo elemento testuale dove fornire una **panoramica del contenuto** di pagina e le informazioni più importanti;
 - Il **corpo di pagina**, che può essere organizzato seguendo due layout: sotto forma di linea del tempo, con le date, il nome degli avvenimenti, una descrizione testuale ed eventuali immagini; oppure una serie di blocchi testuali più estesi, che possono essere corredati da immagini;
 - Una **galleria** di immagini o video.
