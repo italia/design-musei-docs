@@ -9,7 +9,7 @@ Al primo livello, la sezione presenta una pagina di lista di primo livello Organ
 Al secondo livello, la sezione si dirama in: 
 
 - Orari, biglietti e visite guidate (pagina foglia);
-- Dove siamo (pagina foglia);
+- Come raggiungerci (pagina foglia);
 - Percorsi di visita (pagina lista di secondo livello), al di sotto della quale saranno presenti le relative pagine delle singoli percorsi di visita (pagine foglia);
 - Servizi (pagina lista di secondo livello), al di sotto della quale saranno presenti le relative pagine dei singoli servizi (pagine foglia);
 - Accessibilità (pagina foglia);
@@ -52,10 +52,10 @@ La pagina è composta da:
 - La **funzionalità di valutazione della chiarezza informativa delle pagine**, che permette agli utenti di lasciare feedback utili all’ente per migliorare i contenuti del sito.
 
 
-Dove siamo 
+Come raggiungerci 
 --------------------------------
 
-La pagina foglia di secondo livello “Dove siamo” ha lo scopo di presentare agli utenti la posizione, l’indirizzo e le informazioni su come raggiungere il museo con i mezzi pubblici e privati. Nel caso in cui il museo sia composto da più luoghi, comparirà l’elenco di tutti i luoghi con annessi gli indirizzi e le informazioni su come raggiungerli. 
+La pagina foglia di secondo livello “Come raggiungerci” ha lo scopo di presentare agli utenti la posizione, l’indirizzo e le informazioni su come raggiungere il museo con i mezzi pubblici e privati. Nel caso in cui il museo sia composto da più luoghi, comparirà l’elenco di tutti i luoghi con annessi gli indirizzi e le informazioni su come raggiungerli. 
 
 La pagina è composta da: 
 
